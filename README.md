@@ -1,4 +1,4 @@
-# Ecoleta
+<img src="https://github.com/guilhermesantoss/ecoleta-nlw01/blob/master/web/src/assets/logo.svg" alt="Logo Ecoleta" />
 
 <p>
   <img src="https://img.shields.io/github/repo-size/guilhermesantoss/ecoleta-nlw01" alt="Repository Size" />
