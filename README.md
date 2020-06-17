@@ -11,6 +11,8 @@
 
 O projeto **Ecoleta** é uma aplicação totalmente voltada para fins ecológicos, onde na parte **Web** você cadastra pontos de coleta na área desejada e com isso as pessoas podem acessar a parte **Mobile** da aplicação e saber onde podem descartar seus resíduos da forma correta.
 
+<img src="https://user-images.githubusercontent.com/38081852/83580830-6f63e200-a513-11ea-9a27-0a109ec1e4d0.png" />
+
 ## Executando o Back-end
 
 Começando pelo back-end, entre na pasta "server/" e instale todas as dependências do projeto utilizando o comando:
