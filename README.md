@@ -69,6 +69,6 @@ E agora para ver o APP Mobile funcionando no seu celular, abra o aplicativo do *
 * [Expo](https://expo.io/)
 * [Typescript](https://www.typescriptlang.org/)
 
-## License
+## Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
