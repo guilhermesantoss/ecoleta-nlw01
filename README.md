@@ -71,4 +71,4 @@ E agora para ver o APP Mobile funcionando no seu celular, abra o aplicativo do *
 
 ## License
 
-[MIT](LICENSE)
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
