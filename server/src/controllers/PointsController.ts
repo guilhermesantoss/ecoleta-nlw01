@@ -42,9 +42,9 @@ class PointsController {
     };
 
     const items = await knex('items')
-    .join('point_items', 'items.id', '=', 'point_items.item_id')
-    .where('point_items.point_id', id)
-    .select('items.title');
+      .join('point_items', 'items.id', '=', 'point_items.item_id')
+      .where('point_items.point_id', id)
+      .select('items.title');
 
     return response.json({
       point: serializedPoint,
@@ -75,21 +75,21 @@ class PointsController {
       longitude,
       city,
       uf
-    }
+    };
 
     const insertedIds = await trx('points').insert(point);
 
     const point_id = insertedIds[0];
 
     const pointItems = items
-    .split(',')
-    .map((item: string) => Number(item.trim()))
-    .map((item_id: number) => {
-      return {
-        item_id,
-        point_id,
-      }
-    });
+      .split(',')
+      .map((item: string) => Number(item.trim()))
+      .map((item_id: number) => {
+        return {
+          item_id,
+          point_id,
+        };
+      });
 
     await trx('point_items').insert(pointItems);
 
