@@ -1,10 +1,10 @@
 <img src="https://github.com/guilhermesantoss/ecoleta-nlw01/blob/master/web/src/assets/logo.svg" alt="Logo Ecoleta" />
 
 <p>
-  <img src="https://img.shields.io/github/repo-size/guilhermesantoss/ecoleta-nlw01" alt="Repository Size" />
-  <img src="https://img.shields.io/github/last-commit/guilhermesantoss/ecoleta-nlw01" alt="Last Commit" />
-  <img src="https://img.shields.io/github/languages/count/guilhermesantoss/ecoleta-nlw01?color=red" alt="Languages Used" />
-  <img src="https://img.shields.io/github/license/guilhermesantoss/ecoleta-nlw01?color=yellow" alt="License" />
+  <img src="https://img.shields.io/github/repo-size/guilhermesantoss/ecoleta-nlw01?color=darkblue" alt="Repository Size" />
+  <img src="https://img.shields.io/github/last-commit/guilhermesantoss/ecoleta-nlw01?color=darkblue" alt="Last Commit" />
+  <img src="https://img.shields.io/github/languages/count/guilhermesantoss/ecoleta-nlw01?color=darkblue" alt="Languages Used" />
+  <img src="https://img.shields.io/github/license/guilhermesantoss/ecoleta-nlw01?color=darkblue" alt="License" />
 </p>
 
 ## Sobre o projeto
