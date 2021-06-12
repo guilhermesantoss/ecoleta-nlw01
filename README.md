@@ -15,46 +15,46 @@ O projeto **Ecoleta** é uma aplicação totalmente voltada para fins ecológico
 
 Começando pelo back-end, entre na pasta "server/" e instale todas as dependências do projeto utilizando o comando:
 ```bash
-$ npm install
+npm install
 ```
 
 Agora vamos criar o Banco de Dados utilizando o comando:
 ```bash
-$ npm run knex:migrate
+npm run knex:migrate
 ```
 
 Em seguida vamos popular a tabela de "items" utilizando o comando:
 ```bash
-$ npm run knex:seed
+npm run knex:seed
 ```
 
 Por fim, para deixar o servidor rodando, vamos executar o comando:
 ```bash
-$ npm run dev
+npm run dev
 ```
 
 ## Executando o Front-end
 
 Com o nosso Back-end rodando, agora podemos iniciar o processo de instalação das dependências na pasta "web/" utilizando o comando:
 ```bash
-$ npm install
+npm install
 ```
 
 Agora que as dependências estão devidamente instaladas, vamos executar o Front-end utilizando o comando:
 ```bash
-$ npm start
+npm start
 ```
 
 ## Executando o Mobile
 
 Para executar a aplicação Mobile, é necessário ter instalado o [Expo](https://expo.io/learn) em sua máquina e no seu celular. Feito isso, instale as dependências do projeto na pasta "mobile/" utilizando o comando:
 ```bash
-$ npm install
+npm install
 ```
 
 Agora que as dependências estão devidamente instaladas, vamos executar o Aplicativo Mobile utilizando o comando:
 ```bash
-$ npm start
+npm start
 ```
 
 E agora para ver o APP Mobile funcionando no seu celular, abra o aplicativo do **Expo** e escaneie o QRCode.
